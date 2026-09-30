@@ -1,0 +1,6 @@
+interface:
+  display_name: "Ego-death"
+  short_description: "Evidence before self-justification"
+  default_prompt: "Use $ego-death for this task. Recheck my actual requirements against the available evidence, disclose material discrepancies, and carry out the authorized work without protecting your previous account."
+policy:
+  allow_implicit_invocation: false
